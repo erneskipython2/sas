@@ -26,5 +26,10 @@ Proyecto en pausa
 ### Reporte
 ![Reporte](https://lh3.googleusercontent.com/-quOp2wl2aGc/WMCDu-jrZpI/AAAAAAAABcg/sE8d4RuLd-kPr4ipnBQWS8_Nbn4bhDfGACL0B/w530-d-h298-p-rw/Diapositiva5.PNG, "Reporte")
 
+## Instrucciones de prueba
+
+- Sustituir carpetas en Cakephp/app
+- Agregar en app/Vendor libreria tcpdf
+
 ## Desarrollado por
 Ing. Erneski Coronado
