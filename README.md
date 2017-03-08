@@ -5,8 +5,8 @@ Sistema Autogestionado de Salud
 Sistema de informacion que permite la gestion de citas para consultas medicas, integrando las clinicas afiliadas, titulares y beneficiarios del servicio asi como generacion de reportes.
 
 ## Detalles tecnicos
--CakePhp
--MySql
+- CakePhp
+- MySql
 
 ## Observaciones
 El proyecto hasta el punto actual se encuentra funcional cumpliendo con las operaciones de CRUD en cada uno de los modulos presentados en la vista , sin embargo requiere agregar otras funcionalidad planteadas en los requerimientos, asi como ciertas validaciones y carga de datos en el DOM
